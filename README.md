@@ -1,6 +1,6 @@
 # Durable Function Example 
 
-Ejeplo para usar Durable function en Azure Function
+Ejeplo para usar Durable function en Azure Function, basado en [Creación de la primera función durable en Python](https://docs.microsoft.com/es-es/azure/azure-functions/durable/quickstart-python-vscode?tabs=windows)
 
 ## Comenzando 🚀
 
@@ -43,13 +43,6 @@ http://localhost:7071/api/orchestrators/DurableFunctionsOrchestrator
 
 ver en la carpeta Insomnia Instance, para ver un ejemplo de RestFull con Insomnia
 
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 
 ## Despliegue 📦
 
@@ -64,7 +57,6 @@ Para desplegar a través de DevOps
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Azure Functions SDK](https://pypi.org/project/azure-functions/) - Microsoft
-* [OpenAI API](https://openai.com/blog/openai-api/) - Modelo GPT3
 
 ## Contribuyendo 🖇️
 
